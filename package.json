@@ -1,0 +1,22 @@
+{
+  "name": "testing-redux-saga",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "main": "src/index.js",
+  "dependencies": {
+    "react": "16.8.6",
+    "react-dom": "16.8.6",
+    "react-redux": "6.0.1",
+    "react-scripts": "2.1.8",
+    "redux": "4.0.1",
+    "redux-saga": "1.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}

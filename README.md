@@ -1,2 +1,0 @@
-# TestingReduxSaga
-Created with CodeSandbox
